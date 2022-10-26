@@ -10,4 +10,4 @@ Si un lieu nous intéresse nous pouvons l’enregistrer en le mettant dans nos f
 plus rapidement lors des prochaines utilisations.
 Bon voyage avec OceanProtect.
 
-Written by : Jean Guiraud and Dorian Blatière
+**Written by : Jean Guiraud and Dorian Blatière**
