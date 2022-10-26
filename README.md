@@ -9,3 +9,5 @@ s’informer du niveau de pollution d’un lieu donné).
 Si un lieu nous intéresse nous pouvons l’enregistrer en le mettant dans nos favoris afin d’y accéder
 plus rapidement lors des prochaines utilisations.
 Bon voyage avec OceanProtect.
+
+Written by : Jean Guiraud and Dorian Blatière
