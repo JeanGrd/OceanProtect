@@ -4,4 +4,8 @@ OceanProtect is an application that aims to provide information on the pollution
 
 Have a good trip with OceanProtect.
 
+**Only available on : Android**
+
+--------
+
 **Written by : Jean Guiraud and Dorian Blatière**
