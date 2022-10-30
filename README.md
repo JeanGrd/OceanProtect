@@ -1,13 +1,7 @@
 # OceanProtect
 
-OceanProtect est une application qui a pour but de renseigner sur le niveau de pollution d’une ville
-côtière donnée avec des informations complémentaires (la température moyenne de la ville par
-exemple).
-Nous pouvons rechercher une de ces villes avec un accès rapide à Google Maps pour localiser le
-lieu qui nous intéresse avec plus de précision (que ce soit pour partir en voyage ou simplement
-s’informer du niveau de pollution d’un lieu donné).
-Si un lieu nous intéresse nous pouvons l’enregistrer en le mettant dans nos favoris afin d’y accéder
-plus rapidement lors des prochaines utilisations.
-Bon voyage avec OceanProtect.
+OceanProtect is an application that aims to provide information on the pollution level of a given coastal city with additional information (the average temperature of the city for example). We can search for one of these cities with a quick access to Google Maps to locate the place we are interested in with more precision (whether to go on a trip or simply to find out about the pollution level of a given place). If we are interested in a place, we can save it in our favorites in order to access it more quickly in the future.
+
+Have a good trip with OceanProtect.
 
 **Written by : Jean Guiraud and Dorian Blatière**
