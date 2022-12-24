@@ -8,4 +8,4 @@ Have a good trip with OceanProtect.
 
 --------
 
-**Written by : Jean Guiraud and Dorian Blatière**
+**Written by :** Jean Guiraud and Dorian Blatière
